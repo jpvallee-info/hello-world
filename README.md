@@ -1,8 +1,8 @@
 # hello-world
 Repository test
 
-Line 1 of the readme
+Hello everybody!
 
-Couple of blabla
+New to GitHub and learning it for my new Swift passion...
 
-Last line
+Hope to publish an app soon!!!
